@@ -13,11 +13,4 @@ This project is a frontend replica inspired by the design of the Amazon website.
 ## Technologies Used
 
 - HTML5
-- CSS3
-
-## Getting Started
-
-To view the project, simply open the `index.html` file in a web browser.
-
-```bash
-open index.html
+- CSS
