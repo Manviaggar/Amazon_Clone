@@ -5,10 +5,8 @@ This project is a frontend replica inspired by the design of the Amazon website.
 
 ## Features
 
-- Responsive design for various screen sizes.
 - Navigation bar with dropdown menus.
 - Product listing with images and details.
-- Cart functionality (for demonstration purposes).
 
 ## Technologies Used
 
